@@ -1,4 +1,4 @@
-## Frutas do Sul 
+## Frutas do Sul - Imersão Dev com Google Gemini
 
 **Descrição:**
 Uma aplicação web simples e intuitiva que te mostra as princiapis frutas da reigão Sul do Brasil
