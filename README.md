@@ -11,7 +11,9 @@ Uma aplicação web simples e intuitiva que te mostra as princiapis frutas da re
 **Funcionalidades:**
 * **Busca rápida:** Encontre sua fruta favorita em um piscar de olhos! 
 * **Resultados detalhados:** Saiba tudo sobre cada fruta: sabor, origem, benefícios para a saúde e muito mais! 
-* **Interface amigável:** Navegue pela aplicação de forma fácil e intuitiva. 
+* **Interface amigável:** Navegue pela aplicação de forma fácil e intuitiva.
+
+* Link Versel : https://frutas-do-sul.vercel.app/
 
 **Comece a explorar agora mesmo!** 
 **#frutasdosul #frutas #programação #webdev**
